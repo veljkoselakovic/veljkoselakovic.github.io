@@ -5,5 +5,6 @@ del /f OO1.pdf
 ren OOP1.pdf OO1.pdf
 cd..
 git add .
+git fetch
 git commit -m "Automatic commit"
 git push
